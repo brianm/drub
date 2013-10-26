@@ -2,6 +2,7 @@
 *.o
 *.a
 *.so
+drub
 
 # Folders
 _obj
